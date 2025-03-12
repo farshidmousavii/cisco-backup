@@ -16,8 +16,8 @@ This script is designed to back up the configuration of Cisco devices (using SSH
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/farshidmousavii/network-backup
-   cd network-backup
+   git clone https://github.com/farshidmousavii/cisco-backup
+   cd cisco-backup
    ```
 
 2. **Install Dependencies**:
